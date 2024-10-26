@@ -59,6 +59,4 @@ class Solution:
                 s.append(num)
         
         chars[:] = s
-        return len(s)
-
-        
+        return len(s)        

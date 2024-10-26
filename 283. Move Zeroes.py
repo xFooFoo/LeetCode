@@ -36,5 +36,3 @@ class Solution:
             else:
                 i += 1
             run += 1
-
-        

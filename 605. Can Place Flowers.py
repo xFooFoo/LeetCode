@@ -51,10 +51,7 @@ class Solution:
 
         return n <= 0
 
-
-
-
-'''# TESTING
-print(Solution().canPlaceFlowers([1,0,0,0,1], 1))
-print(Solution().canPlaceFlowers([1,0,0,0,1], 2))
+# TESTING
+# print(Solution().canPlaceFlowers([1,0,0,0,1], 1))
+# print(Solution().canPlaceFlowers([1,0,0,0,1], 2))
 #'''

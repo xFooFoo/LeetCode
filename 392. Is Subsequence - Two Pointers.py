@@ -36,6 +36,6 @@ class Solution:
         return i == lenS
 
 
-s = "abc"
-t = "ahbgdc"
-print(Solution().isSubsequence(s, t))
+# s = "abc"
+# t = "ahbgdc"
+# print(Solution().isSubsequence(s, t))

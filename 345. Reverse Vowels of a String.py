@@ -53,4 +53,4 @@ class Solution:
             j -= 1
         return "".join(s_list)
 
-print(Solution().reverseVowels("leetcode"))
+#print(Solution().reverseVowels("leetcode"))

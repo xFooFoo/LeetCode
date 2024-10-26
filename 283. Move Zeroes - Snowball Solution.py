@@ -35,6 +35,3 @@ class Solution:
                 # swap current number with the left most 0, such that the 0 rolls over
                 nums[i - zeroCount] = nums[i]
                 nums[i] = 0
-
-
-        

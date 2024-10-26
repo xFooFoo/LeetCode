@@ -62,4 +62,3 @@ class Solution:
             else:
                 greatestKids.append(False)
         return greatestKids
-
